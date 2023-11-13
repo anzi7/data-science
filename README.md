@@ -15,3 +15,5 @@ Data science is an interdisciplinary field that uses scientific methods, algorit
  8. Google's Machine Learning Crash Course: A self-study, free course on machine learning using TensorFlow. 
  9. IBM Data Science Professional Certificate on Coursera: Some of the individual courses in this certificate are available to audit for free. 
 10. Stanford University's Machine Learning on Coursera: Offered by Andrew Ng, Co-founder of Coursera. The course audits are free, but Certificates have a fee. Remember, the best platform depends on your learning style, prior experience, and specific objectives.
+
+#### Tools For Data Science 
