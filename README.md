@@ -18,8 +18,8 @@ Data science is an interdisciplinary field that uses scientific methods, algorit
 
 #### Tools For Data Science 
 
- 1. Python: A versatile programming language data scientists prefer for its easy-to-understand syntax and extensive data analysis and visualization support libraries. 
- 2. R: A language and environment for statistical computing and graphics that provides various statistical and graphical techniques. 
+ 1. [Python:](https://www.datacamp.com/courses/intro-to-python-for-data-science) A versatile programming language data scientists prefer for its easy-to-understand syntax and extensive data analysis and visualization support libraries. 
+ 2. [R:](https://www.datacamp.com/courses/free-introduction-to-r) A language and environment for statistical computing and graphics that provides various statistical and graphical techniques. 
  3. SQL: Structured Query Language is used for working with databases, especially in manipulating and querying data. 
  4. Jupyter Notebook: An open-source web application widely used for creating and sharing documents that contain live code, equations, visualizations, and narrative text.
  5. Tableau: A powerful data visualization and business intelligence tool that helps create visually appealing data visualizations in dashboards and worksheets. 
