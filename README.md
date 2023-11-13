@@ -6,15 +6,15 @@ Data science is an interdisciplinary field that uses scientific methods, algorit
 
 #### Learning Platforms for Data Science
  1. [Coursera:](https://www.coursera.org/) Offers courses from top universities and organizations. Some courses are free, but certificates usually have a fee.
- 2. edX: Provides free courses from top universities around the world. Certificates have a fee, but the knowledge is free. 
- 3. Kaggle: A platform for data science and analytics competitions. It also offers free tutorials and Kaggle datasets for practice. 
- 4. DataCamp: Offers the first chapters of their courses for free. They provide a hands-on learning experience for data science. 
- 5. Codecademy: Known for its interactive learning approach, it offers free coding classes in 12 different programming languages, including Python and SQL. 
- 6. Harvard's CS50x: An Introduction to Computer Science. This self-paced course you can take for free covers the basics of computer science, including algorithms and data structures. 
- 7. Udemy: Some data science courses are free. This platform also regularly offers sales that allow learners to purchase complete courses at a meager price. 
- 8. Google's Machine Learning Crash Course: A self-study, free course on machine learning using TensorFlow. 
- 9. IBM Data Science Professional Certificate on Coursera: Some of the individual courses in this certificate are available to audit for free. 
-10. Stanford University's Machine Learning on Coursera: Offered by Andrew Ng, Co-founder of Coursera. The course audits are free, but Certificates have a fee. Remember, the best platform depends on your learning style, prior experience, and specific objectives.
+ 2. [edX:](https://www.edx.org/) Provides free courses from top universities around the world. Certificates have a fee, but the knowledge is free. 
+ 3. [Kaggle:](https://www.kaggle.com/) A platform for data science and analytics competitions. It also offers free tutorials and Kaggle datasets for practice. 
+ 4. [DataCamp:](https://www.datacamp.com/) Offers the first chapters of their courses for free. They provide a hands-on learning experience for data science. 
+ 5. [Codecademy:](https://www.codecademy.com/) Known for its interactive learning approach, it offers free coding classes in 12 different programming languages, including Python and SQL. 
+ 6. [Harvard's CS50x:](https://pll.harvard.edu/course/cs50-introduction-computer-science) An Introduction to Computer Science. This self-paced course you can take for free covers the basics of computer science, including algorithms and data structures. 
+ 7. [Udemy:](https://www.udemy.com/) Some data science courses are free. This platform also regularly offers sales that allow learners to purchase complete courses at a meager price. 
+ 8. [Google's Machine Learning Crash Course:](https://developers.google.com/machine-learning/crash-course) A self-study, free course on machine learning using TensorFlow. 
+ 9. [IBM Data Science Professional Certificate:](https://www.ibm.com/training/badge/data-science-professional-certificate) Some of the individual courses in this certificate are available to audit for free. 
+10. [Stanford University's Machine Learning on Coursera:](https://www.coursera.org/specializations/machine-learning-introduction) Offered by Andrew Ng, Co-founder of Coursera. The course audits are free, but Certificates have a fee. Remember, the best platform depends on your learning style, prior experience, and specific objectives.
 
 #### Tools For Data Science 
 
