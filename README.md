@@ -1,5 +1,5 @@
 # data-science
-<img width="400" height="250" alt="" src="https://stemettes.org/zine/wp-content/uploads/sites/3/2021/12/ai-gif.gif" />
+<img width="400" height="250" alt="" src="" />
 
 2. Adding a local GIF file to markdown.
 
@@ -15,7 +15,7 @@ You can use an img tag to add a GIF to your markdown file even without adjusting
 README.md
 1. Adding a GIF from an external URL to markdown.
 
-<img alt="color picker" src="https://bobbyhadz.com/images/blog/change-vscode-integrated-terminal-colors/hover-over-color.gif" />
+<img alt="color picker" src="https://stemettes.org/zine/wp-content/uploads/sites/3/2021/12/ai-gif.gif" />
 
 2. Adding a local GIF file to markdown.
 
