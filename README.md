@@ -20,11 +20,11 @@ Data science is an interdisciplinary field that uses scientific methods, algorit
 
  1. [Python:](https://www.datacamp.com/courses/intro-to-python-for-data-science) A versatile programming language data scientists prefer for its easy-to-understand syntax and extensive data analysis and visualization support libraries. 
  2. [R:](https://www.datacamp.com/courses/free-introduction-to-r) A language and environment for statistical computing and graphics that provides various statistical and graphical techniques. 
- 3. SQL: Structured Query Language is used for working with databases, especially in manipulating and querying data. 
- 4. Jupyter Notebook: An open-source web application widely used for creating and sharing documents that contain live code, equations, visualizations, and narrative text.
- 5. Tableau: A powerful data visualization and business intelligence tool that helps create visually appealing data visualizations in dashboards and worksheets. 
- 6. Hadoop: A framework that allows processing large data sets in a distributed computing environment mainly used for storage. 
- 7. SAS: A software suite developed for advanced analytics, business intelligence, data management, and predictive analytics. 
- 8. Apache Spark: A fast, in-memory data-processing engine to efficiently execute streaming, machine learning, or SQL workloads that require fast, iterative access to datasets.
- 9. Excel: Simple, widely used, and robust data manipulation and analysis tool. 
-10. TensorFlow: An end-to-end open-source platform for machine learning developed by Google, allows developers to create large-scale neural networks. These are just a few among many other tools used in data science. 
+ 3. [SQL:](https://www.datacamp.com/courses/introduction-to-sql) Structured Query Language is used for working with databases, especially in manipulating and querying data. 
+ 4. [Jupyter Notebook:](https://www.datacamp.com/tutorial/tutorial-jupyter-notebook#) An open-source web application widely used for creating and sharing documents that contain live code, equations, visualizations, and narrative text.
+ 5. [Tableau:](https://www.datacamp.com/courses/introduction-to-tableau) A powerful data visualization and business intelligence tool that helps create visually appealing data visualizations in dashboards and worksheets. 
+ 6. [Hadoop:](https://www.datacamp.com/tutorial/tutorial-cloudera-hadoop-tutorial) A framework that allows processing large data sets in a distributed computing environment mainly used for storage. 
+ 7. [SAS:](https://www.datacamp.com/courses/r-for-sas-users) A software suite developed for advanced analytics, business intelligence, data management, and predictive analytics. 
+ 8. [Apache Spark:](https://www.datacamp.com/tutorial/apache-spark-tutorial-machine-learning?utm_source=google&utm_medium=paid_search&utm_campaignid=19589720821&utm_adgroupid=157156375111&utm_device=t&utm_keyword=&utm_matchtype=&utm_network=g&utm_adpostion=&utm_creative=679431869483&utm_targetid=dsa-2218886984300&utm_loc_interest_ms=&utm_loc_physical_ms=9040314&utm_content=&utm_campaign=230119_1-sea~dsa~tofu_2-b2c_3-row-p1_4-prc_5-na_6-na_7-le_8-pdsh-go_9-na_10-na_11-na-fawnov23&gbraid=0AAAAADQ9WsFNiVHdOyGvQXuSoUzx97Zwi&gclid=Cj0KCQiAjMKqBhCgARIsAPDgWlyb_mRmJz7XJ56A3gb0VM-sFiN787J1R7nrkHzjoQAWmEJgNXIJikQaAsPvEALw_wcB) A fast, in-memory data-processing engine to efficiently execute streaming, machine learning, or SQL workloads that require fast, iterative access to datasets.
+ 9. [Excel:](https://www.coursera.org/courses?query=microsoft%20excel) Simple, widely used, and robust data manipulation and analysis tool. 
+10. [TensorFlow:](https://www.datacamp.com/courses/introduction-to-tensorflow-in-python) An end-to-end open-source platform for machine learning developed by Google, allows developers to create large-scale neural networks. These are just a few among many other tools used in data science. 
