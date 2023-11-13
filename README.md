@@ -32,13 +32,13 @@ Data science is an interdisciplinary field that uses scientific methods, algorit
 
 #### 10 Free Resources to Download Datasets for Data Science
 
- 1. Kaggle
- 2. UCI Machine Learning Repository
- 3. Google's Dataset Search
- 4. AWS Public Datasets
- 5. Data.gov
- 6. FiveThirtyEight
- 7. Reddit's Datasets Subreddit
- 8. Quandl
- 9. Data.world
-10. Open Data on IBM Cloud
+ 1. [Kaggle](https://www.kaggle.com/datasets)
+ 2. [UCI Machine Learning Repository](https://humansintheloop.org/solutions/dataset-collection/?utm_term=uci%20dataset&utm_campaign=CORE+Campaign&utm_source=adwords&utm_medium=ppc&hsa_acc=7694807070&hsa_cam=17031947882&hsa_grp=137544720882&hsa_ad=594447336687&hsa_src=g&hsa_tgt=kwd-301111238337&hsa_kw=uci%20dataset&hsa_mt=b&hsa_net=adwords&hsa_ver=3&gclid=EAIaIQobChMIvsDvooHAggMVJQ97Bx0Eewn9EAAYBCAAEgL9YvD_BwE)
+ 3. [Google's Dataset Search](https://dataforseo.com/apis/serp-api/google-dataset-search-api?utm_source=google&utm_medium=cpc&utm_campaign=Search_Test_Products&utm_term=google%20dataset%20search%20api&utm_content=667114387619&gclid=EAIaIQobChMIlLrDtIHAggMVmwl7Bx3X3w64EAAYASAAEgJOz_D_BwE&gad=1)
+ 4. [AWS Public Datasets](https://registry.opendata.aws/)
+ 5. [Data.gov](https://catalog.data.gov/dataset?q=&sort=views_recent+desc)
+ 6. [FiveThirtyEight](https://data.fivethirtyeight.com/)
+ 7. [Reddit's Datasets Subreddit](https://www.reddit.com/r/datasets/?rdt=54031)
+ 8. [Quandl](https://blog.raymond-investment.com/quandl-database/)
+ 9. [Data.world](https://data.world/)
+10. [Open Data on IBM Cloud](https://www.ibm.com/products/osdu-data-platform)
